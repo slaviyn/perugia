@@ -1,0 +1,105 @@
+body {
+	background-color: #edeef2;
+}
+@media screen and (max-width:600px) {
+.novost {
+	text-align: justify;
+	font-size: 14px !important;
+	padding: 0 10px 10px 10px;
+}
+	.naviz {
+color: #fff;
+font-size: 30px !important;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+h3 {
+	font-size: 16px !important;
+	text-align:center;
+}
+.img-gl {
+	margin: 10px;
+	width: 100px !important;;
+	height: 75px !important;;
+	float: left;
+}
+}
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
+  > .col,
+  > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+.perudg-header {
+	background-color: #121212;
+	height: 110px;
+	margin-top: 0px;
+}
+.logo-head {
+	width: 110px;
+    height: 99px;
+    display: flex;
+    padding: 10px;
+}
+.naviz {
+color: #fff;
+font-size: 3vw;
+display: flex;
+align-items: center;
+justify-content: left; 
+}
+.menu-1 {
+	padding: 0;
+	width: 100%;
+}
+.nav-link:hover {
+	background-color: #FFF;
+}
+.nav-item {
+	margin-left: 20px;
+}
+.img-gl {
+	margin: 10px;
+	width: 200px;
+	height: 150px;
+	float: left;
+}
+.novost {
+	text-align: justify;
+	font-size: 18px;
+	padding: 0 10px 10px 10px;
+}
+.perudg-footer {
+	background-color: #121212;
+	height: 60px;
+	margin-top: 0px;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	text-align: center;
+}
+.btn {
+	display: flex;
+	align-items: center;
+	justify-content: right; 
+}
+h3 {
+	font-size: 20px;
+	text-align:center;
+}
+a {
+	color: #696969 !important;
+}
+.sidebar-22 {
+	padding: 10px !important;
+}
+.img-article {
+	float: left;
+	padding: 5px 20px 10px 5px;
+	width: 50%;
+}
